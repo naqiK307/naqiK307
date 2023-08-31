@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Naqi Abbas
-- 🌱 I’m currently learning ... Studying
+- 👋 Hi, I’m Naqi Abbas.
+- 🌱 I’m an Aspiring Data Analyst.
 - 📫 How to reach me
     -  naqi72.one@gmail.com
     -  https://www.linkedin.com/in/naqi-abbas-04a564183/
