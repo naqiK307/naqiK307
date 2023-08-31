@@ -3,6 +3,7 @@
 - 📫 How to reach me
     -  naqi72.one@gmail.com
     -  https://www.linkedin.com/in/naqi-abbas-04a564183/
+
 I can make interactive dashboards, perform exploratory data analysis (EDA), data cleaning and transformation. I have Professional experience of working as a Software engineer in the backend department (.NET).
  
 I have command over the following:
